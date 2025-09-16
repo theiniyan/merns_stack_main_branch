@@ -1,0 +1,8 @@
+[
+  {"id":1,"name":"Margherita Pizza","category":"Pizza","price":299,"image":"assets/images/pizza1.jpg"},
+  {"id":2,"name":"Pepperoni Pizza","category":"Pizza","price":349,"image":"assets/images/pizza2.jpg"},
+  {"id":3,"name":"Veg Burger","category":"Burgers","price":159,"image":"assets/images/burger1.jpg"},
+  {"id":4,"name":"Chicken Burger","category":"Burgers","price":189,"image":"assets/images/burger2.jpg"},
+  {"id":5,"name":"Paneer Butter Masala","category":"Indian","price":229,"image":"assets/images/indian1.jpg"},
+  {"id":6,"name":"Biryani","category":"Indian","price":279,"image":"assets/images/indian2.jpg"}
+]
